@@ -1,4 +1,4 @@
-**LCD1602 display use parallel 4bit mode, Based On STM32 **
+**LCD1602 display use parallel 4bit mode, Based On STM32**
 
 **This Project use stm32cubeIde build (STM32CubeIDE Version: 1.8.0)**
 

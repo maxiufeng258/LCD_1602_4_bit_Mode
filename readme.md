@@ -1,6 +1,6 @@
-**LCD1602 display use parallel 4bit mode, Based On STM32**
+**LCD1602 display use parallel 4bit mode, Based On STM32 HAL lib**
 
-**This Project use stm32cubeIde build (STM32CubeIDE Version: 1.8.0)**
+**This Project use stm32cubeIde build (STM32CubeIDE Version: 1.8.0), Using STM32F429IGT6**
 
 **A total of 7 wires are used (RS RW E D4 D5 D6 D7)**
 

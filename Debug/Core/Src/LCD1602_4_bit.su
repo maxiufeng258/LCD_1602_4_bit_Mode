@@ -1,0 +1,8 @@
+LCD1602_4_bit.c:24:13:LCD1602_usDelay	16	static
+LCD1602_4_bit.c:35:13:LCD1602_Send_Data_Cmd	16	static
+LCD1602_4_bit.c:59:6:LCD1602_Write_Cmd	24	static
+LCD1602_4_bit.c:77:6:LCD1602_Write_Data	24	static
+LCD1602_4_bit.c:94:6:LCD1602_Clear	8	static
+LCD1602_4_bit.c:106:6:LCD1602_Set_Cursor	16	static
+LCD1602_4_bit.c:130:6:LCD1602_Init	8	static
+LCD1602_4_bit.c:168:6:LCD1602_Write_String	16	static
